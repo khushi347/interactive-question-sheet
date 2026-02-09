@@ -14,7 +14,6 @@ This project is inspired by the question sheet experience on **Codolio** and foc
   - Questions
 - Collapsible topics and sub-topics for better readability
 - Inline editing using double-click
-- Clean, premium UI built with Tailwind CSS
 
 ---
 
@@ -51,8 +50,7 @@ This project is inspired by the question sheet experience on **Codolio** and foc
 ##  Notes & Assumptions
 
 - The application is implemented as a single-page web application.
-- Data persistence is handled in-memory; no database is required for this assignment.
-- The UI design is inspired by Codolio but implemented independently.
+- Data persistence is handled in-memory.
 - The primary focus of this assignment is frontend functionality, state management, and user experience.
 
 
